@@ -245,7 +245,7 @@ The designs were created to the following widths:
 @media screen and (max-width: 600px) {
 
    body {
-      
+      touch-action: none;
       height:150px;
       background:white;
       margin-left: 40px;
